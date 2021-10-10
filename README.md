@@ -1,1 +1,1 @@
-# Github-5
+This is a Repository for a Merge & Conflicts Tests.
