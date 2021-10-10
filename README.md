@@ -1,1 +1,2 @@
-This is a Repository for a Merge & Conflicts Tests. Local.
+
+This is a Repository for a Merge & Conflicts Tests. Remote.
